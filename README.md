@@ -23,3 +23,4 @@ test_registration.py # Тесты регистрации
 test_login.py # Тесты авторизации
 test_logout.py # Тесты выхода
 test_create_advertisement.py # Тесты создания объявлений# Sprint_5
+ 
