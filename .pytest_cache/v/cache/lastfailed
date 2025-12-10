@@ -1,0 +1,9 @@
+{
+  "tests/test_create_advertisement.py::TestCreateAdvertisement::test_create_advertisement_unauthorized": true,
+  "tests/test_create_advertisement.py::TestCreateAdvertisement::test_create_advertisement_authorized": true,
+  "tests/test_login.py::TestLogin::test_successful_login": true,
+  "tests/test_logout.py::TestLogout::test_successful_logout": true,
+  "tests/test_registration.py::TestRegistration::test_successful_registration": true,
+  "tests/test_registration.py::TestRegistration::test_registration_invalid_email": true,
+  "tests/test_registration.py::TestRegistration::test_registration_existing_user": true
+}
